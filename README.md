@@ -21,7 +21,7 @@ See also:
 
 - Controls
 
-    LImestone only requires a single controller to utilize all of its functionality--the second controller serves as a debug controller incase something goes wrong.
+    Limestone only requires a single controller to utilize all of its functionality--the second controller serves as a debug controller incase something goes wrong.
   
     Our controlboard layout, [located here](/src/main/java/frc/robot/controlboard/ControlBoard.java), shows how we map all the buttons on our controllers to various different features
 
